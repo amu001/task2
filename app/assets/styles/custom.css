@@ -1,0 +1,62 @@
+body{
+ background-color: #f4f4f4!important;
+}
+
+.section1{
+	    border-bottom: 1px solid #ddd;
+	    padding:55px 0px;
+}
+.sec1img{
+	float: right;
+}
+.sec1text{
+	float: left;
+}
+
+
+
+.gallery div{
+    margin:40px 0px; 
+  
+}
+
+.services,.team{
+	text-align: center;
+
+}
+.services  img {
+ width: 40%;
+margin:auto;
+
+}
+
+.team img{
+
+ width: 40%;
+margin:auto;	
+}
+.team ul li{
+	list-style-type: none;
+	display: inline-block;
+}
+.team  ul li img{
+
+	width:15%;
+}
+.foot{
+
+	background-color: #27a07d;
+	
+}
+.foot h4{color:#fff;
+}
+.btn-primary
+{
+	color:#fff;
+	background-color:#1b6952; 
+	border-color: #1b6952;
+	float:right;
+
+
+
+}
